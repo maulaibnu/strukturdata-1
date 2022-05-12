@@ -1,3 +1,4 @@
 # strukturdata
 Kuliah Struktur Data ITICM Semester 2 
-Name : Aryasi Pangestu De Kase
+Nama : Aryasi Pangestu De Kase
+Nim : 2110002
